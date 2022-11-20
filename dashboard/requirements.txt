@@ -1,0 +1,6 @@
+numpy
+pandas
+plotly-express
+streamlit==1.10.0
+requests==2.24.0
+requests-toolbelt==0.9.1
